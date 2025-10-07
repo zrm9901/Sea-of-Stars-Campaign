@@ -1,0 +1,4 @@
+#Important 
+#NonHuman
+#Healers
+#GuildLeader
