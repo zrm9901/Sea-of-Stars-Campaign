@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Main.md",
+                "file": "Lore/Places/Foster's ruins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main"
+              "title": "Foster's ruins"
             }
           }
         ]
@@ -208,17 +208,21 @@
   },
   "active": "806ee226fb48716c",
   "lastOpenFiles": [
-    "Lore/Places/Planes.md",
-    "Magic.md",
     "Lore/Main.md",
-    "Lore/Guilds.md",
-    "Lore/Past.md",
+    "Lore/Places/Planes.md",
+    "Lore/Important characters/Guild Masters/Roult.md",
     "Lore/Important characters/Guild Masters/Alaris.md",
-    "Lore/Races/Dangers.md",
     "Lore/Important characters/Guild Masters/Aria.md",
     "Lore/Important characters/Guild Masters/Gaerris.md",
     "Lore/Important characters/Guild Masters/Othast.md",
-    "Lore/Important characters/Guild Masters/Roult.md",
+    "Lore/Places/Foster's ruins.md",
+    "Lore/Races",
+    "Lore/Important characters/Bosses/The Apostles of Foster.md",
+    "Lore/Important characters/Bosses",
+    "Magic.md",
+    "Lore/Guilds.md",
+    "Lore/Past.md",
+    "Lore/Races/Dangers.md",
     "Lore/Events/Foster's Ritual.md",
     "Lore/Events/Great Convergence.md",
     "Lore/Important characters/Foster.md",
@@ -228,7 +232,6 @@
     "Lore/Places/Cities/Freestone.md",
     "Lore/Places/Cities/Standing Cities.md",
     "Lore/Important characters/Guild Masters",
-    "Lore/Races",
     "Lore/Races.md",
     "Lore/Misc",
     "Nox.md",
@@ -240,10 +243,6 @@
     "Lore",
     "templates/Creature.md",
     "stat blocks",
-    "Jack.md",
-    "Related NPC.md",
-    "Welcome.md",
-    "templates",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
